@@ -1,6 +1,6 @@
 # SQL_Sakila
 
-his project is a number of query searches that presents data using MySQL. By using the Sakila DB, I am able to demonstrates my ability to select rows, columns, make inner and outer joins, alter tables, and update new data.
+This project is a number of query searches that presents data using MySQL. By using the Sakila DB, I am able to demonstrates my ability to select rows, columns, make inner and outer joins, alter tables, and update new data.
 
 1a. Display the first and last names of all actors from the table actor.
 
